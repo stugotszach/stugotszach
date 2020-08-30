@@ -1,6 +1,6 @@
 ### My name is Zach 😎
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/stugotszach?label=Follow%20me&style=for-the-badge">
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/c5or7JTjO1Y?label=youtube%20video%20views&style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/stugotszach?label=Follow%20me&style=for-the-badge"> <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/c5or7JTjO1Y?label=youtube%20video%20views&style=for-the-badge">
+
 
 ### Socials 
 <a href="https://twitter.com/stugotszach">
