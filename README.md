@@ -2,7 +2,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/stugotszach?label=Follow%20me&style=for-the-badge"> <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/c5or7JTjO1Y?label=youtube%20video%20views&style=for-the-badge">
 
 
-### Socials 
+# Socials 
 <a href="https://twitter.com/stugotszach">
   <img align="left" alt="Stugotszach's| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
