@@ -20,5 +20,6 @@
 </a>
 
 
-<h1>Info</h1>
+
+<h1><br>Info</br></h1>
 <p>I mainly play games all day so dont expect me to be here very often, but if you need to contact me for some reason my Discord is <b>StugotsZach#6874</b></p>
