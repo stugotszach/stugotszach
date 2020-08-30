@@ -18,4 +18,4 @@
 <a href="discord.gg/nGTZWmY">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
-<p> I mainly play games all day so dont expect me to be here very often, but if you need to contact me for some reason my Discord is ```StugotsZach#6874```
+I mainly play games all day so dont expect me to be here very often, but if you need to contact me for some reason my Discord is ```StugotsZach#6874```
